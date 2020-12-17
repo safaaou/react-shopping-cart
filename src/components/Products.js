@@ -78,7 +78,7 @@ export default class Products extends Component {
                     <button className="button primary" onClick={()=>{
                       this.props.addToCart(product);
                       this.closeModal();
-                    }}>Add to cart</button>
+                    }}>Add To Cart</button>
 
                   </div>
                 </div>
